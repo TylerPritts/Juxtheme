@@ -6,6 +6,47 @@
     "steam.css": [
       "Steam"
     ]
+    "shared.css": [
+      "SteamLibraryWindow|Steam"
+    ]
   },
-  "id": "b0ba7bfa-a62b-45c9-babe-a2f5c0f3c2bc"
+  "patches": {
+    "Border Radius": {
+      "default": "10px",
+      "type": "slider",
+      "values": {
+        "5px": {
+          "--desktopgb": [
+            "5px",
+            "SteamLibraryWindow|Steam"
+          ]
+        },
+        "10px": {
+          "--desktopgb": [
+            "10px",
+            "SteamLibraryWindow|Steam"
+          ]
+        },
+        "15px": {
+          "--desktopgb": [
+            "15px",
+            "SteamLibraryWindow|Steam"
+          ]
+        },
+        "20px": {
+          "--desktopgb": [
+            "20px",
+            "SteamLibraryWindow|Steam"
+          ]
+        },
+        "25px": {
+          "--desktopgb": [
+            "25px",
+            "SteamLibraryWindow|Steam"
+          ]
+        }
+      }
+    }
+  },
+  "id": "a9dad723-d715-4955-ad7f-85e87d4ad46e"
 }
