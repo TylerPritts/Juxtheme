@@ -1,0 +1,11 @@
+{
+  "name": "Juxtheme",
+  "author": "TylerPritts",
+  "version": "v0.1",
+  "inject": {
+    "steam.css": [
+      "Steam"
+    ]
+  },
+  "id": "b0ba7bfa-a62b-45c9-babe-a2f5c0f3c2bc"
+}
