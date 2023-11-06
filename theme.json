@@ -1,11 +1,11 @@
 {
   "name": "Juxtheme",
   "author": "TylerPritts",
-  "version": "v0.1",
+  "version": "v0.1.1",
   "inject": {
     "steam.css": [
       "Steam"
-    ]
+    ],
     "shared.css": [
       "SteamLibraryWindow|Steam"
     ]
